@@ -15,8 +15,6 @@ The following packages are required to run the script:
 - Scikit-learn
 - Keras
 
-## Data
 
-The input data file should be a CSV file containing the customer data, with one row per customer and one column per variable. The target variable should be a binary variable (0 or 1) indicating whether the customer churned or not.
 
-The input variable names and target variable name should be specified in the `config.yaml` file.
+
